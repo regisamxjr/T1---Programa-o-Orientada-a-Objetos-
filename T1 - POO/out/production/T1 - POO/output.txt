@@ -1,0 +1,20 @@
+Começando o programa... 
+2.11,Pedro da Silva,Porto Alegre
+2.22,Maria de Souza,Porto Alegre
+2.33,Paulo da Silva,Porto Alegre
+2.11,Pedro da Silveira,Canoas
+2.22,Maria de Campos,Canoas
+2.33,Paulo da Silveira,Canoas
+2.11111,Paula de Souza,Canoas
+2.22111,Mario de Souza,Canoas
+2.33111,Maria da Silva,Canoas
+2.11222,Joao da Silva,Porto Alegre
+2.22222,Joana de Souza,Porto Alegre
+2.33222,Heleno da Silva,Canoas
+2.11333,Helena de Souza,Canoas
+2.22333,Lauro da Silva,Alvorada
+2.33333,Laura de Souza,Alvorada
+4:Nenhum partido encontrado.
+4:Nenhum partido encontrado.
+Erro: Linha inválida. Esperado número do partido, mas encontrado: Canoas
+Erro: Linha inválida. Esperado número do partido, mas encontrado: Partido Gaucho

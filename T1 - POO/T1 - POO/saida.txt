@@ -1,0 +1,13 @@
+Começando o programa... 
+ACMEVoting ATIVANDO... 
+OPÇÕES: 
+[0] Terminar programa: 
+[1] Cadastrar partido: 
+[2] Cadastrar candidatos: 
+[3] Cadastrar votos de candidatos: 
+[4] Mostrar dados de um determinado partido pelo número: 
+[5] Mostrar dados de um determinado candidato: 
+[6] Mostrar os votos dos prefeitos de um determinado partido: 
+[7] Mostrar dados dos partidos com mais candidatos: 
+[8] Mostrar os dados do prefeito e do vereador mais votados: 
+Digite a opção desejada: 
